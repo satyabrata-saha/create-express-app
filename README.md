@@ -39,3 +39,9 @@ mkdir controllers db middlewares models routes utils
 ```bash
 touch app.js constant.js index.js
 ```
+
+# one commend
+
+```bash
+mkdir app-name && cd app-name && npm init -y && npm i express ejs body-parser dotenv && touch .env .gitignore Readme.md && mkdir public src && cd src && mkdir controllers db middlewares models routes utils && touch app.js constant.js index.js
+```
