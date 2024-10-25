@@ -2,6 +2,8 @@
 
 create express app with folder structure
 
+# steps
+
 ```bash
 mkdir app-name
 ```
