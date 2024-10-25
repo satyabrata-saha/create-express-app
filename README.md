@@ -4,6 +4,8 @@ create express app with folder structure
 
 # You can use this repo as starting point
 
+**_- Use Git Bash -_**
+
 ```bash
 git clone https://github.com/satyabrata-saha/create-express-app.git
 ```
@@ -20,11 +22,15 @@ npm i
 npm run dev
 ```
 
-website run on port 3000 [http://localhost:3000/](http://localhost:3000/)
+website run on [http://localhost:3000/](http://localhost:3000/)
+
+you can update all the packages by using this
+
+```bash
+npm update --save
+```
 
 # steps
-
-**_- Use Git Bash -_**
 
 ```bash
 mkdir app-name
