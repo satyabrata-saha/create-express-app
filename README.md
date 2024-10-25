@@ -4,6 +4,8 @@ create express app with folder structure
 
 # steps
 
+-- Use Git Bash
+
 ```bash
 mkdir app-name
 ```
