@@ -21,11 +21,11 @@ npm i express ejs body-parser dotenv
 ```
 
 ```bash
-mkdir public src
+touch .env .gitignore Readme.md
 ```
 
 ```bash
-touch .env .gitignore Readme.md
+mkdir public src
 ```
 
 ```bash
