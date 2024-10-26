@@ -103,7 +103,7 @@ mkdir controllers db middlewares models routes utils &&
 touch app.js constant.js index.js
 ```
 
-## contact
+## me
 
 Satyabrata Saha
 <br>
