@@ -5,4 +5,7 @@
 .env
 .env*
 
+.prettierrc
+LICENSE
+package*.json
 README.md

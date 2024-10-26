@@ -21,7 +21,11 @@ create express app with **_Folder Structure_**
     ```bash
     npm install
     ```
-4. run the besic app
+4. make sure in package.json because this use ES modules
+    ```json
+    "type": "module"
+    ```
+5. run the besic app
 
     ```bash
     npm run dev
@@ -30,13 +34,13 @@ create express app with **_Folder Structure_**
 
 Website run on [http://localhost:3000/](http://localhost:3000/)
 
-<br>
 
 * you can update all the packages by using this
 
     ```bash
     npm update --save
     ```
+<br>
 
 ## steps
 
