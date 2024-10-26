@@ -2,7 +2,7 @@
 
 create express app with folder structure
 
-# You can use this repo as starting point
+## You can use this repo as starting point
 
 **_- Use Git Bash -_**
 
@@ -15,7 +15,7 @@ cd create-express-app
 ```
 
 ```bash
-npm i
+npm install
 ```
 
 ```bash
@@ -30,7 +30,7 @@ you can update all the packages by using this
 npm update --save
 ```
 
-# steps
+## steps
 
 ```bash
 mkdir app-name
@@ -45,11 +45,11 @@ npm init -y
 ```
 
 ```bash
-npm i express ejs body-parser dotenv
+npm install express ejs body-parser dotenv
 ```
 
 ```bash
-npm i --save-dev nodemon
+npm install --save-dev nodemon prettier
 ```
 
 ```bash
@@ -72,11 +72,11 @@ mkdir controllers db middlewares models routes utils
 touch app.js constant.js index.js
 ```
 
-# one commend
+## one commend
 
 ```bash
 mkdir app-name && cd app-name && npm init -y &&
-npm i express ejs body-parser dotenv && npm i --save-dev nodemon &&
+npm install express ejs body-parser dotenv && npm install --save-dev nodemon &&
 touch .env .gitignore Readme.md && mkdir public src && cd src &&
 mkdir controllers db middlewares models routes utils &&
 touch app.js constant.js index.js
