@@ -1,6 +1,6 @@
 # create-express-app
 
-create express app with folder structure
+create express app with **_Folder Structure_**
 
 ## You can use this repo as starting point
 
@@ -26,8 +26,11 @@ create express app with folder structure
     ```bash
     npm run dev
     ```
+<br>
 
-website run on [http://localhost:3000/](http://localhost:3000/)
+Website run on [http://localhost:3000/](http://localhost:3000/)
+
+<br>
 
 * you can update all the packages by using this
 
