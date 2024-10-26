@@ -1,6 +1,9 @@
+<a id="readme-top"></a>
 # create-express-app
 
 create express app with **_Folder Structure_**
+<br>
+this use express for routeing and ejs for frontend
 
 ## You can use this repo as starting point
 
@@ -97,7 +100,7 @@ Website run on [http://localhost:3000/](http://localhost:3000/)
 all that in one commend
 ```bash
 mkdir app-name && cd app-name && npm init -y &&
-npm install express ejs body-parser dotenv && npm install --save-dev nodemon &&
+npm install express ejs body-parser dotenv && npm install --save-dev nodemon prettier &&
 touch .env .gitignore Readme.md && mkdir public src && cd src &&
 mkdir controllers db middlewares models routes utils &&
 touch app.js constant.js index.js
